@@ -1,0 +1,104 @@
+# MAISON NOA — Generative Engine Optimization Map
+
+> MAISON NOA is a skincare gift set brand with a refined, boutique identity suggested by the French-inspired name 'Maison' (meaning 'house'). The brand likely carries an elegant, luxurious, and curated aesthetic, positioning itself as a premium destination for beautifully packaged skincare collections. The focus is on gifting experiences, combining quality skincare products into thoughtfully designed sets.
+
+---
+
+## Pages
+
+### בית
+https://maison-noa-0531931a.zappy5.app
+מארז טיפוח יוקרתי לאישה המשלב מוצרי עור איכותיים באריזה מעוצבת. התפנקי או הפתיעי במתנת טיפוח לאירוע מיוחד שתשאיר רושם בלתי נשכח. כנסי עכשיו!
+
+### חוויית מתנה
+https://maison-noa-0531931a.zappy5.app/gift-experience
+צרי רגע קסום עם מארז טיפוח עור מתנה שעוצב בקפידה. חוויית מתנה יוקרתית שמשדרגת כל חגיגה ומעניקה תחושת יוקרה צרפתית. גלי את הקסם עכשיו!
+
+### אודות
+https://maison-noa-0531931a.zappy5.app/about
+ב-MAISON NOA אנחנו אוצרים סט טיפוח פרימיום ישראל באריזות אלגנטיות, מתוך תשוקה לאיכות וליופי. הכירי את הפילוסופיה שמאחורי מארזי הטיפוח שלנו ובואי להתאהב.
+
+### צור קשר
+https://maison-noa-0531931a.zappy5.app/contact
+יש לך שאלה על מארז טיפוח יוקרתי לאישה או זקוקה להתאמה אישית של מתנת טיפוח לאירוע מיוחד? צרי איתנו קשר ונשמח לעזור לך לבחור את הסט המושלם. כתבי לנו עוד היום!
+
+### Products
+https://maison-noa-0531931a.zappy5.app/products
+המוצרים שלנו - MAISON NOA
+
+### Cart
+https://maison-noa-0531931a.zappy5.app/cart
+עגלת הקניות שלך
+
+### Checkout
+https://maison-noa-0531931a.zappy5.app/checkout
+תשלום
+
+### Login
+https://maison-noa-0531931a.zappy5.app/login
+התחברות לקוחות
+
+### Account
+https://maison-noa-0531931a.zappy5.app/account
+החשבון שלי
+
+### Order Success
+https://maison-noa-0531931a.zappy5.app/order-success
+תודה על ההזמנה
+
+### Product Detail
+https://maison-noa-0531931a.zappy5.app/product/:slug
+פרטי המוצר - MAISON NOA
+
+### Category
+https://maison-noa-0531931a.zappy5.app/category/:slug
+מוצרים - MAISON NOA
+
+### תודה רבה - הודעתך התקבלה | Maison Noa
+https://maison-noa-0531931a.zappy5.app/thank-you
+תודה שפנית ל-Maison Noa. הודעתך התקבלה בהצלחה ונחזור אליך בהקדם. אנו מתמחים בכל מארז טיפוח יוקרתי לאישה.
+
+## Legal & Policy
+
+### Privacy Policy
+https://maison-noa-0531931a.zappy5.app/privacy
+Information about how user data is collected, stored, and protected.
+
+### Terms & Conditions
+https://maison-noa-0531931a.zappy5.app/terms
+Legal terms describing service usage, rights, and policies.
+
+### Accessibility Statement
+https://maison-noa-0531931a.zappy5.app/accessibility
+Information about WCAG compliance and accessibility features.
+
+---
+
+## Products
+
+_No products are currently configured._
+
+---
+
+# Business Context (for LLM understanding)
+
+## About MAISON NOA
+MAISON NOA is a skincare gift set brand with a refined, boutique identity suggested by the French-inspired name 'Maison' (meaning 'house'). The brand likely carries an elegant, luxurious, and curated aesthetic, positioning itself as a premium destination for beautifully packaged skincare collections. The focus is on gifting experiences, combining quality skincare products into thoughtfully designed sets.
+
+## Target Audience
+- חובבי טיפוח עירוניים
+- קונים מתנות לאירועים מיוחדים
+- מחפשי אורח חיים יוקרתי
+
+## Industry
+Beauty & Skincare
+
+---
+
+# Machine-readable feeds
+
+- Sitemap (XML): https://maison-noa-0531931a.zappy5.app/sitemap.xml
+- Robots: https://maison-noa-0531931a.zappy5.app/robots.txt
+- Flattened page text (for LLMs): https://maison-noa-0531931a.zappy5.app/llms-full.txt
+- Products (JSON): https://maison-noa-0531931a.zappy5.app/products.json
+- Products (Google Merchant RSS): https://maison-noa-0531931a.zappy5.app/product-feed.xml
