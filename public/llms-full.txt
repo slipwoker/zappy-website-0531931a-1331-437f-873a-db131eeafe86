@@ -5681,3 +5681,12 @@ Description: תודה שפנית ל-Maison Noa. הודעתך התקבלה בהצ
 
 ---
 
+## Product Catalog
+
+### THE NOA’S EDIT
+URL: https://example.com/product/the-noas-edit-2c4bmw
+Price: 0.00 ILS
+Availability: In stock
+
+---
+

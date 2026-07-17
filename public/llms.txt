@@ -76,7 +76,14 @@ Information about WCAG compliance and accessibility features.
 
 ## Products
 
-_No products are currently configured._
+**Total active products: 1**
+
+### THE NOA’S EDIT
+https://example.com/product/the-noas-edit-2c4bmw
+- Price: 0.00 ILS
+- Availability: In stock
+- Description: The Classic Edit Of MAISON NOA - יצרנו עבורך מארז Self Care מושלם — כזה שמרגיש כמו רגע קטן של פינוק בבית 🤍 כל פריט נבחר בקפידה כדי לשלב בין נוחות, אסתטיקה ותחושת יוקרה ✨ המארז כולל: 🤍 פיג׳מה 100% כותנה איכותית ורכה במיוחד 🤍 סרט פפיון לשיער להשלמת הלוק 🤍 כוס שתייה קרה מעוצבת בפרחי אביב 🤍 תיק איפור בעיצוב וינטג׳י מהמם 🤍 מסרק עץ קטן ונוח לכל מקום 🤍 פיצ׳פקס קטנים ומפתיעים
+- Image: https://example.com/assets/product-ai-fit-1784277126838-d9zp8p.webp
 
 ---
 

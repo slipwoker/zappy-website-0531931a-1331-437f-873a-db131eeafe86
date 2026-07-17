@@ -4,6 +4,18 @@
     <title>MAISON NOA</title>
     <link>https://example.com</link>
     <description>Product feed for MAISON NOA</description>
-    <lastBuildDate>Fri, 17 Jul 2026 08:27:03 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 17 Jul 2026 08:39:36 GMT</lastBuildDate>
+    <item>
+      <g:id>b6440ee9-6d8a-4e1e-b683-e59e6c5eb478</g:id>
+      <g:title>THE NOA’S EDIT</g:title>
+      <g:description>The Classic Edit Of MAISON NOA - יצרנו עבורך מארז Self Care מושלם — כזה שמרגיש כמו רגע קטן של פינוק בבית 🤍 כל פריט נבחר בקפידה כדי לשלב בין נוחות, אסתטיקה ותחושת יוקרה ✨ המארז כולל: 🤍 פיג׳מה 100% כותנה איכותית ורכה במיוחד 🤍 סרט פפיון לשיער להשלמת הלוק 🤍 כוס שתייה קרה מעוצבת בפרחי אביב 🤍 תיק איפור בעיצוב וינטג׳י מהמם 🤍 מסרק עץ קטן ונוח לכל מקום 🤍 פיצ׳פקס קטנים ומפתיעים</g:description>
+      <g:link>https://example.com/product/the-noas-edit-2c4bmw</g:link>
+      <g:image_link>https://example.com/assets/product-ai-fit-1784277126838-d9zp8p.webp</g:image_link>
+      <g:availability>in_stock</g:availability>
+      <g:price>0.00 ILS</g:price>
+      <g:condition>new</g:condition>
+      <g:brand>MAISON NOA</g:brand>
+      <g:identifier_exists>no</g:identifier_exists>
+    </item>
   </channel>
 </rss>

@@ -1,8 +1,31 @@
 {
   "@context": "https://schema.org",
-  "generated_at": "2026-07-17T08:27:03.136Z",
+  "generated_at": "2026-07-17T08:39:36.570Z",
   "base_url": "https://example.com",
   "currency": "ILS",
-  "count": 0,
-  "products": []
+  "count": 1,
+  "products": [
+    {
+      "id": "b6440ee9-6d8a-4e1e-b683-e59e6c5eb478",
+      "slug": "the-noas-edit-2c4bmw",
+      "name": "THE NOA’S EDIT",
+      "name_translations": {},
+      "description": "",
+      "short_description": "The Classic Edit Of MAISON NOA - יצרנו עבורך מארז Self Care מושלם — כזה שמרגיש כמו רגע קטן של פינוק בבית 🤍\nכל פריט נבחר בקפידה כדי לשלב בין נוחות, אסתטיקה ותחושת יוקרה ✨\n\nהמארז כולל:\n🤍 פיג׳מה 100% כותנה איכותית ורכה במיוחד\n🤍 סרט פפיון לשיער להשלמת הלוק\n🤍 כוס שתייה קרה מעוצבת בפרחי אביב\n🤍 תיק איפור בעיצוב וינטג׳י מהמם\n🤍 מסרק עץ קטן ונוח לכל מקום\n🤍 פיצ׳פקס קטנים ומפתיעים\n",
+      "sku": null,
+      "brand": null,
+      "price": 0,
+      "base_price": 0,
+      "sale_price": null,
+      "currency": "ILS",
+      "images": [
+        "https://example.com/assets/product-ai-fit-1784277126838-d9zp8p.webp"
+      ],
+      "in_stock": true,
+      "stock_status": "in_stock",
+      "url": "https://example.com/product/the-noas-edit-2c4bmw",
+      "categories": [],
+      "updated_at": "2026-07-17T08:38:41.591Z"
+    }
+  ]
 }
